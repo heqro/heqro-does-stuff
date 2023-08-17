@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://heqro.github.io/heqro-does-stuff"
+baseurl = "https://heqro.github.io/"
 languageCode = "en-us"
 paginate = 5
 title = "Heqro does stuff"

@@ -1,0 +1,24 @@
+# Rename this file to languages.toml to enable multilingual support
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Heqro does stuff"
+weight = 1
+    [en.Params.sidebar]
+        subtitle = "Stumbling around Music, Mathematics and Software"
+
+[es]
+languageName = "Español"
+languagedirection = "ltr"
+title = "Heqro hace cosas"
+weight = 2
+    [es.Params.sidebar]
+        subtitle = "Decidor de música, matemáticas y software"
+
+[de]
+languageName = "Deutsch"
+languagedirection = "ltr"
+title = "Heqro macht Dinge"
+weight = 3
+    [de.Params.sidebar]
+        subtitle = "Ich spreche über Musik, Mathematik und Software"

@@ -2,7 +2,7 @@
 title: Plasma 6 may do away with Activities
 description: ...and you may only miss them if you are reading this post.
 slug: kde-activities-plasma-6
-date: 2023-08-22 00:00:00+0000
+date: 2023-08-21 00:00:00+0000
 image: cover.jpg
 categories:
     - Software

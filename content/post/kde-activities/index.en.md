@@ -15,7 +15,7 @@ Ever since Plasma 4 came out long before I moved on to use Linux, people have be
 
 I have been a KDE Plasma desktop power user almost exclusively because of this feature, going so far as to talk about them in the University I studied my double degree in Mathematics and Computer Science. Link to the presentation notes [here](https://ofilibre.gitlab.io/transpas/jornada-cultura-libre/sw/02_Iglesias.pdf). The objective of the presentation was to present different use cases that were covered by Activities without delving into the hard details, leaving them to be found by the users that wanted to try.
 
-# What are Activities?
+## What are Activities?
 
 After taking a look at some of the use cases proposed in the linked posts, as well as some others, it doesn't seem that hard to give a succint definition:
 
@@ -35,9 +35,9 @@ The first picture was the desktop layout I was using to study Computational Geom
 
 Then again, this is just a showcase, but we now we know that Activities allow us to quickly change context by putting up front only the information we need at a certain moment.
 
-## Swapping between hardware configuration profiles
+### Swapping between hardware configuration profiles
 
-### Activities have different states
+#### Activities have different states
 
 During a user session, any Activity may be stopped or be running in parallel to the one you are currently focusing.
 
@@ -53,7 +53,7 @@ Another use-case for changing your current Activity would be that of the user th
 
 Deleting an Activity is the equivalent of removing the Plasma configuration profile linked to that Activity. Instead of closing all the applications inside the deleted Activity, it moves them to your current Activity in order to ensure your work is not lost. You may want to delete an Activity once you have passed a subject, or once you have successfully completed a project in your job.
 
-### Intelligent battery consumption: per-Activity Power profiles
+#### Intelligent battery consumption: per-Activity Power profiles
 
 By using the Activity Power Settings module located in the System Settings application of your Plasma 5 desktop, you can manage all of your Activities' power settings. Setting separate power configurations per Activity comes in handy when you find yourself applying the same configuration settings time and again. You may look at the following picture to get a glimpse of the per-Activity configurations available.
 
@@ -63,11 +63,11 @@ For instance, in an Activity dedicated to studying a course in Calculus, you may
 
 Conversely, in a programming oriented course, you may like your screen to be brighter but to make it dim as soon as you take your attention off the screen. Perhaps this course requires you to build a server application and thus you need your laptop not to sleep unless, say, you close the lid. Then again, Activities allow you to mold Plasma's energy profiles to adapt to this particular situation in an one-time configuration fashion.
 
-## Internet and Bluetooth control
+### Internet and Bluetooth control
 
 Activities allow you to take control over your Wi-fi, Mobile broadband and Bluetooth, programatically enabling and disabling them at will. This could work wonders for you if you happen to be the kind of person to get easily distracted and need to keep all kinds of distractions away, or if you happen to travel abroad and want to create an Activity to make sure you never, ever, enable your mobile data.
 
-# Are Activities really going to disappear from Plasma 6?
+## Are Activities really going to disappear from Plasma 6?
 
 After going through the previous use cases, it certainly feels like a weird decision to remove Activities. Some functionality has already been disposed of, like [per-Activity Power Settings](https://invent.kde.org/plasma/plasma-desktop/-/issues/60).
 
@@ -79,7 +79,7 @@ Are Activities completely leaving for Plasma 6, though? There's [ongoing discuss
 
 These questions lead us to the final bit of the post, which is purely an opinion:
 
-# Should Activities not be present in Plasma 6?
+## Should Activities not be present in Plasma 6?
 
 If they are not actively maintained, certainly. Plasma is a community effort to build a simple by default desktop, yet powerful when needed. If there is no technical interest to keep them going strong, Activities are as good as gone.
 

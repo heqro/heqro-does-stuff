@@ -19,7 +19,9 @@ He estado leyendo [How Music Works](https://en.wikipedia.org/wiki/How_Music_Work
 
 ![](david-byrne-book.jpg)
 
-Por ejemplo, el canto gregoriano encuentra su medio idóneo en un espacioso lugar de culto, donde la reverberación permite subrayar la maestría de la voz de sus intérpretes. No es difícil imaginar que este escenario sería terrorífico para una agrupación de música altamente percusiva como el candombe, conocido por interpretarse en las calles. Recíprocamente, si desplazamos el canto gregoriano a la Puerta del Sol, este género perdería no solo parte de su encanto, sino también su cartera.
+Por ejemplo, el canto gregoriano encuentra su medio idóneo en un espacioso lugar de culto, donde la reverberación permite subrayar la maestría de la voz de sus intérpretes. No es difícil imaginar que este escenario sería terrorífico para una agrupación de música altamente percusiva como el candombe, conocido por interpretarse en las calles. Recíprocamente, si desplazamos el canto gregoriano a la Puerta del Sol, este género perdería no solo parte de su encanto, sino también su cartera. A continuación tenemos un extracto de una de las charlas que dio al respecto:
+
+{{< youtube Se8kcnU-uZw >}}
 
 > **Me parece que una canción que dura entre tres y cuatro minutos tiene una duración natural. Me parece, en ocasiones, hasta inevitable.**
 >

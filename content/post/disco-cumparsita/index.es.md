@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-El otro día, más bien hace un año, descubrí que Nile Rodgers, de Chic, seguía haciendo música. Más que descubrir, *cierto servicio de música online* me puso a traición una canción en la que él figuraba como uno de los muchos participantes.
+El otro día, más bien hace casi un año, descubrí que Nile Rodgers, de Chic, seguía haciendo música. Más que descubrir, *cierto servicio de música online* me puso a traición una canción en la que él figuraba como uno de los muchos participantes.
 No cabía duda: el tipo seguía vivo y así lo atestiguaba su guitarra eléctrica, que seguía sonando con ese tono que resultó característico e inconfundible durante los 70s. 
 
 El paso de las décadas no haría sino demostrar que su música podía también ser calificada como visionaria. En concreto, visionaria del timbre que produce un cepillo eléctrico recién cargado.
